@@ -1,4 +1,4 @@
-import { ApiKeyCheck } from "@/components/Apikeycheck";
+import { ApiKeyCheck } from "@/components/api-key-check";
 import Image from "next/image";
 
 export default function Home() {
